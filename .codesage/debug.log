@@ -1,0 +1,18 @@
+2026-07-05 14:10:07,225 mewcode.agent [run_to_completion] agent=77ea744e8e1c tools=10 names=['ReadFile', 'WriteFile', 'EditFile', 'Bash', 'Glob', 'Grep', 'ToolSearch', 'Agent', 'TeamCreate', 'TeamDelete'] coordinator=False
+2026-07-05 14:10:12,697 httpx HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-05 14:10:14,763 mewcode.agent [run_to_completion] agent=77ea744e8e1c iter=1 tool_calls=1 text_len=0 stop=end_turn
+2026-07-05 14:10:17,454 httpx HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-05 14:10:19,721 mewcode.agent [run_to_completion] agent=77ea744e8e1c iter=2 tool_calls=1 text_len=67 stop=end_turn
+2026-07-05 14:10:22,788 httpx HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-05 14:10:24,701 mewcode.agent [run_to_completion] agent=77ea744e8e1c iter=3 tool_calls=1 text_len=58 stop=end_turn
+2026-07-05 14:10:28,373 httpx HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-05 14:10:29,800 mewcode.agent [run_to_completion] agent=77ea744e8e1c iter=4 tool_calls=1 text_len=72 stop=end_turn
+2026-07-05 14:10:33,845 httpx HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-05 14:10:39,913 mewcode.agent [run_to_completion] agent=77ea744e8e1c iter=5 tool_calls=1 text_len=143 stop=end_turn
+2026-07-05 14:10:44,934 openai._base_client Retrying request to /chat/completions in 0.412303 seconds
+2026-07-05 14:10:49,766 httpx HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-05 14:10:51,583 mewcode.agent [run_to_completion] agent=77ea744e8e1c iter=6 tool_calls=1 text_len=102 stop=end_turn
+2026-07-05 14:10:54,938 httpx HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-05 14:10:56,644 mewcode.agent [run_to_completion] agent=77ea744e8e1c iter=7 tool_calls=1 text_len=124 stop=end_turn
+2026-07-05 14:10:59,956 httpx HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-05 14:11:01,426 mewcode.agent [run_to_completion] agent=77ea744e8e1c iter=8 tool_calls=0 text_len=213 stop=end_turn
