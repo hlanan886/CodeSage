@@ -211,7 +211,8 @@ pytest tests/test_agent.py -v
 # 运行特定测试
 pytest tests/test_agent.py::test_single_step_tool_call -v
 ```
-![Uploading image.png…]()
+<img width="1496" height="1032" alt="image" src="https://github.com/user-attachments/assets/8ee83a49-50ad-4e83-a6e0-dc9433fbee4b" />
+
 
 ## 📄 License
 
